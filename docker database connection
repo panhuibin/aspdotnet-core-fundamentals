@@ -1,0 +1,31 @@
+sudo docker pull mcr.microsoft.com/mssql/server:2017-latest
+
+sudo docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=reallyStrongPwd123' \
+   -p 1433:1433 --name odeToFood \
+   -d mcr.microsoft.com/mssql/server:2017-latest
+
+
+
+***************not necessary*********************
+sudo docker exec -it odeToFood "bash"
+
+/opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P 'reallyStrongPwd123'
+CREATE DATABASE odeToFoood
+SELECT Name from sys.Databases
+GO
+/opt/mssql-tools/bin/sqlcmd -S 172.23.11.202 -U SA -P 'reallyStrongPwd123'
+
+*************************************************
+
+appsettings.json:
+
+{
+  "Greeting":  "Hello!!",
+  "ConnectionStrings": {
+    "OdeToFood": "Server=localhost,1433\\Database=odeToFood;User ID=sa;Password=reallyStrongPwd123;"
+  }
+}
+
+
+dotnet ef database update -v
+

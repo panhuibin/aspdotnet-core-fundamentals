@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{F6602C8E-AE01-40EF-B5F7-BCA88DF33C87}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/IGreeter.cs">
+    <Files>
+      <File FileName="OdeToFood/wwwroot/index.html" Line="8" Column="26" />
+      <File FileName="OdeToFood/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="OdeToFood/Controllers/HomeController.cs" Line="3" Column="24" />
+      <File FileName="OdeToFood/appsettings.json" Line="1" Column="1" />
+      <File FileName="OdeToFood/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="OdeToFood/IGreeter.cs" Line="21" Column="44" />
+      <File FileName="OdeToFood/Program.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood/Startup.cs" Line="41" Column="50" />
+      <File FileName="OdeToFood/Controllers/HelloController.cs" Line="12" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.deps.json
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.runtimeconfig.json
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.runtimeconfig.dev.json
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.dll
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.pdb
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.csproj.CoreCompileInputs.cache
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.AssemblyInfoInputs.cache
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.AssemblyInfo.cs
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.dll
+/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/04/demos/demos/after/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F6602C8E-AE01-40EF-B5F7-BCA88DF33C87}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdeToFood PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdeToFood/Migrations/20171002184057_InitialCreate.cs">
+    <Files>
+      <File FileName="OdeToFood/appsettings.json" Line="4" Column="100" />
+      <File FileName="OdeToFood/Data/OdeToFoodDbContext.cs" Line="15" Column="1" />
+      <File FileName="OdeToFood/Services/IRestaurantData.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood/Services/SqlRestaurantData.cs" Line="33" Column="1" />
+      <File FileName="OdeToFood/Startup.cs" Line="32" Column="44" />
+      <File FileName="OdeToFood/Program.cs" Line="1" Column="1" />
+      <File FileName="OdeToFood/Migrations/20171002184057_InitialCreate.cs" Line="23" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/06/demos/demos/after/OdeToFood/Controllers/HomeController.cs" relfile="OdeToFood/Controllers/HomeController.cs" line="31" column="40" />
+      <Breakpoint enabled="false" file="/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/06/demos/demos/after/OdeToFood/Controllers/HomeController.cs" relfile="OdeToFood/Controllers/HomeController.cs" line="42" column="1" />
+      <Breakpoint enabled="false" file="/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/06/demos/demos/after/OdeToFood/Controllers/HomeController.cs" relfile="OdeToFood/Controllers/HomeController.cs" line="49" column="1" />
+      <Breakpoint enabled="false" file="/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/06/demos/demos/after/OdeToFood/Services/SqlRestaurantData.cs" relfile="OdeToFood/Services/SqlRestaurantData.cs" line="21" column="1" />
+      <Breakpoint enabled="false" file="/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/06/demos/demos/after/OdeToFood/Services/SqlRestaurantData.cs" relfile="OdeToFood/Services/SqlRestaurantData.cs" line="28" column="1" />
+      <Breakpoint enabled="false" file="/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/06/demos/demos/after/OdeToFood/Services/SqlRestaurantData.cs" relfile="OdeToFood/Services/SqlRestaurantData.cs" line="33" column="1" />
+      <Breakpoint file="/Users/span/Dropbox/pluralsight/aspdotnet-core-fundamentals/06/demos/demos/after/OdeToFood/Migrations/20171002184057_InitialCreate.cs" relfile="OdeToFood/Migrations/20171002184057_InitialCreate.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
